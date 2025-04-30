@@ -7,7 +7,7 @@ This app compares a resume PDF to a job description and outputs a similarity sco
 - Streamlit interface
 
 - Paste a job description
-- 
+
 ## Teck Stack
 
 - Python
